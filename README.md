@@ -1,15 +1,17 @@
-# Data Science | Data Analysis | Business Analysis
+## Data Science | Data Analysis | Business Analysis
+#### Technical Skills: Python, SQL, Cloud (AWS, Azure, Snowflake), Excel, Tableau/Power BI
 
-### Education
-Maua School of Engineering, Chemical Engineering
-FIA Business School, Graduate Diploma in Computer and Information Science
+## Education
+- Maua School of Engineering, Chemical Engineering (_Sao Paulo, Brazil_)
+- FIA Business School, Graduate Diploma in Computer and Information Science (_Sao Paulo, Brazil_)
 
-### Work Experience
-Senior Data Analyst/Data Scientist @ TextNow
-▪ Organized the data and set up a process to examine in-app purchases. This was essential to the Revenue team find strategy gaps, run pricing experiments more smoothly, and try out different offers for users with ease.
+## Work Experience
+**Senior Data Analyst/Data Scientist** \n
+TextNow \n
+▪ Organized the data and set up a process to examine in-app purchases. This was essential to the Revenue team find strategy gaps, run pricing experiments more smoothly, and try out different offers for users with ease. \n
 ▪ Led the development of a new data cube for external data ingestion (Google Ad Manager), concentrating the company’s ad
-business into one source.
-▪ Developed an extensive dashboard set for a 360 degrees view of the Company’s Ad revenue stream.
+business into one source. \n
+▪ Developed an extensive dashboard set for a 360 degrees view of the Company’s Ad revenue stream. \n
 
 ### Projects
 ▪ **New Pricing Algorithm**: aligning Laffer’s curve theory, statistics, and machine-learning (AI) to deploy a predictive model that achieves the highest price that the passengers are willing to pay without affecting its acceptance rate. Increased by 4% of the total value per customer.
