@@ -7,7 +7,7 @@
 
 
 ## Work Experience
-**TextNow**
+### **TextNow**
 
 Senior Data Analyst/Data Scientist
 (_Apr. 2023 - Present_) 
@@ -19,7 +19,7 @@ business into one source.
 
 ▪ Developed an extensive dashboard set for a 360 degrees view of the Company’s Ad revenue stream.
 
-**Jobber**
+### **Jobber**
 
 Senior Data Analyst
 (_Dec. 2021 - Apr. 2023_)
@@ -30,7 +30,7 @@ Senior Data Analyst
 
 ▪ Led the development of a Customer Retention model based on app usage and feature engineering.
 
-**Cymax Group**
+### **Cymax Group**
 Data Analyst
 (_Jan. 2021 - Dec. 2021_)
 
@@ -38,7 +38,7 @@ Data Analyst
 
 ▪ Constructed forecasting scenarios utilizing audience segmentation algorithms used by Senior leadership to make data-driven decisions.
 
-**Didi Chuxing/99**
+### **Didi Chuxing/99**
 Data Science Specialist
 (_Jan. 2021 - Dec. 2021_)
 
@@ -48,7 +48,7 @@ Data Science Specialist
 
 ▪ Developed a comprehensive Data Visualization strategy, with 20+ panels serving all 9 areas of the company, with 100+ visits per day.
 
-**Riachuelo e-commerce**
+### **Riachuelo e-commerce**
 Data Scientist
 (_Jan. 2018 - Nov. 2019_)
 
@@ -58,13 +58,12 @@ Data Scientist
 
 ▪ Developed LTV and Churn prediction models, which improved the retention rate in 12% over 6 months after deployment
 
+### **Itau Unibanco**
 
-**Itau Unibanco**
-
-Senior Business Analyst
+### Senior Business Analyst
 (_Jun. 2015 - Jun. 2018_)
 
-**Czarnikow Sugar**
+### **Czarnikow Sugar**
 
 Market Analyst/Research
 (_Jan. 2012 - Jun 2015_)
