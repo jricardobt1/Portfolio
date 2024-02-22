@@ -7,8 +7,9 @@
 
 
 ## Work Experience
-**Senior Data Analyst/Data Scientist**
-- TextNow
+**TextNow**
+
+Senior Data Analyst/Data Scientist
 (_Apr. 2023 - Present_) 
 
 ▪ Organized the data and set up a process to examine in-app purchases. This was essential to the Revenue team find strategy gaps, run pricing experiments more smoothly, and try out different offers for users with ease.
@@ -18,8 +19,9 @@ business into one source.
 
 ▪ Developed an extensive dashboard set for a 360 degrees view of the Company’s Ad revenue stream.
 
-**Senior Data Analyst**
-- Jobber
+**Jobber**
+
+Senior Data Analyst
 (_Dec. 2021 - Apr. 2023_)
 
 ▪ Established an A/B testing framework to streamline and expedite experiment execution, significantly reducing the preparation phase to less than 3 days.
@@ -28,16 +30,16 @@ business into one source.
 
 ▪ Led the development of a Customer Retention model based on app usage and feature engineering.
 
-**Data Analyst**
-- Cymax Group
+**Cymax Group**
+Data Analyst
 (_Jan. 2021 - Dec. 2021_)
 
 ▪ Created and executed an A/B testing framework, analyzing business performance through statistical tests to drive continuous improvement. Influenced business decisions related to digital products and business metrics.
 
 ▪ Constructed forecasting scenarios utilizing audience segmentation algorithms used by Senior leadership to make data-driven decisions.
 
-**Data Science Specialist**
-- Didi Chuxing/99
+**Didi Chuxing/99**
+Data Science Specialist
 (_Jan. 2021 - Dec. 2021_)
 
 ▪ Developed a New Machine-learning based Pricing Model that increased in 4% the total value per customer
@@ -46,20 +48,23 @@ business into one source.
 
 ▪ Developed a comprehensive Data Visualization strategy, with 20+ panels serving all 9 areas of the company, with 100+ visits per day.
 
-**Data Scientist**
-- Riachuelo e-commerce
+**Riachuelo e-commerce**
+Data Scientist
 (_Jan. 2018 - Nov. 2019_)
+
 ▪ Developed and implemented a new recommendation system, resulting in an 18% increase in sales.
+
 ▪ Developed a multi-touch attribution model responsible for lowering 7% the total marketing investment while increasing in 5% the total revenue generated per channel.
+
 ▪ Developed LTV and Churn prediction models, which improved the retention rate in 12% over 6 months after deployment
 
 
-**Senior Business Analyst**
-- Itau Unibanco
+**Itau Unibanco**
+Senior Business Analyst
 (_Jun. 2015 - Jun. 2018_)
 
-**Market Analyst/Research**
-- Czarnikow Sugar
+**Czarnikow Sugar**
+Market Analyst/Research
 (_Jan. 2012 - Jun 2015_)
 
 ### Projects
