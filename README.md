@@ -68,7 +68,7 @@ Data Scientist
 Market Analyst/Research
 (_Jan. 2012 - Jun 2015_)
 
-### Projects
+## Projects
 ▪ **New Pricing Algorithm**: aligning Laffer’s curve theory, statistics, and machine-learning (AI) to deploy a predictive model that achieves the highest price that the passengers are willing to pay without affecting its acceptance rate. Increased by 4% of the total value per customer.
 
 ▪ **New Recommendation System**: using product features and large data sets such as customer historical data and behavior. The algorithm intended to calculate the percentage of chance of a customer purchasing a product and then recommend everything higher than 75% probability. The algorithm was built in Python using Machine Learning libraries. Delivered an 18% increase in sales after 3 months of implementation
