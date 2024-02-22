@@ -1,4 +1,4 @@
-## Data Science | Data Analysis | Business Analysis
+# Data Science | Data Analysis | Business Analysis
 #### Technical Skills: Python, SQL, Cloud (AWS, Azure, Snowflake), Excel, Tableau/Power BI
 
 ## Education
