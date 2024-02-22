@@ -60,10 +60,12 @@ Data Scientist
 
 
 **Itau Unibanco**
+
 Senior Business Analyst
 (_Jun. 2015 - Jun. 2018_)
 
 **Czarnikow Sugar**
+
 Market Analyst/Research
 (_Jan. 2012 - Jun 2015_)
 
