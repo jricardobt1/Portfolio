@@ -3,6 +3,6 @@ This project was created to compare the scores and results of three main classif
 - Random Forest
 - XGBoost Classifier
 
-The dataset was downloaded from Kaggle and consisted in 10000 customers from an European bank (ABC bank) that we wanted to know if the customer was likely to churn or not. The discussion revolves around the actions and efficiency of methods that the Bank can use to avoid these customers to leave the institution.
+The dataset utilized in this study was acquired from Kaggle and encompassed a cohort of 10,000 customers affiliated with a European banking institution known as ABC bank. The primary focus of this investigation was to discern the likelihood of customer churn, thereby prompting an exploration into methods and strategies that the bank could employ to mitigate customer attrition.
 
-TL,DR: XGBoost presented the best Recall (True Positives/(True Positives + False Negatives) and was used to predict the Churn. We used Recall due to the high cost of False negatives (where the model did not predict that the customer would leave, but they actually did).
+TL,DR: the XGBoost Classifier emerged as the optimal choice, exhibiting superior performance in terms of Recall, calculated as True Positives divided by the sum of True Positives and False Negatives. Consequently, XGBoost was employed for predicting instances of churn. The selection of Recall as the performance metric was predicated upon the significant repercussions associated with False Negatives, where the model fails to predict customer churn despite its occurrence, thereby necessitating a heightened emphasis on mitigating such instances.
