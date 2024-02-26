@@ -1,0 +1,8 @@
+This project was created to compare the scores and results of three main classification Algorithms:
+- Logistic Regression
+- Random Forest
+- XGBoost Classifier
+
+The dataset was downloaded from Kaggle and consisted in 10000 customers from an European bank (ABC bank) that we wanted to know if the customer was likely to churn or not. The discussion revolves around the actions and efficiency of methods that the Bank can use to avoid these customers to leave the institution.
+
+TL,DR: XGBoost presented the best Recall (True Positives/(True Positives + False Negatives) and was used to predict the Churn. We used Recall due to the high cost of False negatives (where the model did not predict that the customer would leave, but they actually did).
