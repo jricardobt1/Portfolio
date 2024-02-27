@@ -1,0 +1,6 @@
+This Project intends to predict the SP500 Index using minimal information and a RandomForestClassifier algorithm.
+
+- The purpose of this notebook is to demonstrate that we can achieve better than expected results even considering little to no information input to the model and still predict better than just investing without running it.
+- The precision of the model started at 54.8% and grew to 55.3% after the backtest, while investing at random (just selecting a day and investing) would guarantee us a chance of earning money (in case of the index increases) of 42%.
+
+This is just the first part of a more comprehensive analysis that intends to use several approaches to predict the financial market.
